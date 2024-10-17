@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Choni</h1>
 
-<p>Welcome to my GitHub profile! I'm a passionate web developer with a strong focus on <strong>WordPress development</strong>, <strong>custom web solutions</strong>, and <strong>modern JavaScript frameworks</strong> like React. Over the years, I’ve honed my skills in creating <strong>high-performance websites</strong> and <strong>custom tools</strong> that meet the needs of clients across different industries.</p>
+<p>Thanks for dropping by! I’m a web developer who loves building cool things on the web, especially with <strong>WordPress</strong> and <strong>JavaScript</strong>. Whether it's custom web solutions or sleek interfaces, I’m always up for a challenge. I enjoy combining creativity with clean, functional code to deliver awesome projects that make an impact.</p>
 
 <h3>🚀 About Me</h3>
 <ul>
-  <li><strong>Founder of <a href="https://code-fish.eu">Code-Fish.eu</a>:</strong> A web development company where I build scalable and flexible web solutions, especially in WordPress.</li>
   <li><strong>Frontend & Backend Developer:</strong> Specializing in <strong>React</strong>, <strong>Redux</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, and <strong>WordPress</strong> customizations.</li>
   <li><strong>Focused on User-Centered Design:</strong> I prioritize intuitive interfaces and seamless user experiences in every project I take on.</li>
 </ul>
